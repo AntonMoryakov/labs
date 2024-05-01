@@ -1,0 +1,14 @@
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\bin\Debug\net8.0\laba_1_zadanie_3.exe
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\bin\Debug\net8.0\laba_1_zadanie_3.deps.json
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\bin\Debug\net8.0\laba_1_zadanie_3.runtimeconfig.json
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\bin\Debug\net8.0\laba_1_zadanie_3.dll
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\bin\Debug\net8.0\laba_1_zadanie_3.pdb
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.AssemblyInfoInputs.cache
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.AssemblyInfo.cs
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.csproj.CoreCompileInputs.cache
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.dll
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\refint\laba_1_zadanie_3.dll
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.pdb
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\laba_1_zadanie_3.genruntimeconfig.cache
+G:\projects_c#\laba_1_zadanie_3\laba_1_zadanie_3\obj\Debug\net8.0\ref\laba_1_zadanie_3.dll
