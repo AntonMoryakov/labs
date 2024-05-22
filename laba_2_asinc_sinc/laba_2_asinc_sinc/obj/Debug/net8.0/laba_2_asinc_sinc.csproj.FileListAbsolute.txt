@@ -1,0 +1,14 @@
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\bin\Debug\net8.0\laba_2_asinc_sinc.exe
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\bin\Debug\net8.0\laba_2_asinc_sinc.deps.json
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\bin\Debug\net8.0\laba_2_asinc_sinc.runtimeconfig.json
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\bin\Debug\net8.0\laba_2_asinc_sinc.dll
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\bin\Debug\net8.0\laba_2_asinc_sinc.pdb
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.AssemblyInfoInputs.cache
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.AssemblyInfo.cs
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.csproj.CoreCompileInputs.cache
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.dll
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\refint\laba_2_asinc_sinc.dll
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.pdb
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\laba_2_asinc_sinc.genruntimeconfig.cache
+G:\projects_c#\laba_2_asinc_sinc\laba_2_asinc_sinc\obj\Debug\net8.0\ref\laba_2_asinc_sinc.dll

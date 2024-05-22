@@ -1,0 +1,14 @@
+G:\projects_c#\laba_2_asinc_sinc\asinc\bin\Debug\net8.0\async.exe
+G:\projects_c#\laba_2_asinc_sinc\asinc\bin\Debug\net8.0\async.deps.json
+G:\projects_c#\laba_2_asinc_sinc\asinc\bin\Debug\net8.0\async.runtimeconfig.json
+G:\projects_c#\laba_2_asinc_sinc\asinc\bin\Debug\net8.0\async.dll
+G:\projects_c#\laba_2_asinc_sinc\asinc\bin\Debug\net8.0\async.pdb
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.AssemblyInfoInputs.cache
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.AssemblyInfo.cs
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.csproj.CoreCompileInputs.cache
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.dll
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\refint\async.dll
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.pdb
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\async.genruntimeconfig.cache
+G:\projects_c#\laba_2_asinc_sinc\asinc\obj\Debug\net8.0\ref\async.dll
