@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "wWJTQ/94b94c/Ahyr6ad2HBmr7EYEBrOqJq2XcYHycu9CQl2CDf00SvP7PN43wFetNWrrhLMlcBPUzGiMIbqVQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "G:\\projects_c#\\laba_1_zadanie_1\\laba_1_zadanie_1\\laba_1_zadanie_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "wWJTQ/94b94c/Ahyr6ad2HBmr7EYEBrOqJq2XcYHycu9CQl2CDf00SvP7PN43wFetNWrrhLMlcBPUzGiMIbqVQ==",
+  "success": true,
+  "projectFilePath": "G:\\projects_c#\\laba_1_zadanie_1\\laba_1_zadanie_1\\laba_1_zadanie_1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 2fd7a5e8fd95fe80e485abda2f345fe4f4912b4b
 }
