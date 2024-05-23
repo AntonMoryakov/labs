@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projects_c#\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj": {}
+    "H:\\cygwin64\\home\\antvm\\labs\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj": {}
   },
   "projects": {
-    "G:\\projects_c#\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj": {
+    "H:\\cygwin64\\home\\antvm\\labs\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects_c#\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj",
+        "projectUniqueName": "H:\\cygwin64\\home\\antvm\\labs\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj",
         "projectName": "laba_1_zadanie_2",
-        "projectPath": "G:\\projects_c#\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj",
+        "projectPath": "H:\\cygwin64\\home\\antvm\\labs\\laba_1_zadanie_2\\laba_1_zadanie_2\\laba_1_zadanie_2.csproj",
         "packagesPath": "C:\\Users\\antvm\\.nuget\\packages\\",
-        "outputPath": "G:\\projects_c#\\laba_1_zadanie_2\\laba_1_zadanie_2\\obj\\",
+        "outputPath": "H:\\cygwin64\\home\\antvm\\labs\\laba_1_zadanie_2\\laba_1_zadanie_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antvm\\AppData\\Roaming\\NuGet\\NuGet.Config",

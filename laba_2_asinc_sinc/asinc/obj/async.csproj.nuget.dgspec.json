@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projects_c#\\laba_2_asinc_sinc\\asinc\\async.csproj": {}
+    "H:\\cygwin64\\home\\antvm\\labs\\laba_2_asinc_sinc\\asinc\\async.csproj": {}
   },
   "projects": {
-    "G:\\projects_c#\\laba_2_asinc_sinc\\asinc\\async.csproj": {
+    "H:\\cygwin64\\home\\antvm\\labs\\laba_2_asinc_sinc\\asinc\\async.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects_c#\\laba_2_asinc_sinc\\asinc\\async.csproj",
+        "projectUniqueName": "H:\\cygwin64\\home\\antvm\\labs\\laba_2_asinc_sinc\\asinc\\async.csproj",
         "projectName": "async",
-        "projectPath": "G:\\projects_c#\\laba_2_asinc_sinc\\asinc\\async.csproj",
+        "projectPath": "H:\\cygwin64\\home\\antvm\\labs\\laba_2_asinc_sinc\\asinc\\async.csproj",
         "packagesPath": "C:\\Users\\antvm\\.nuget\\packages\\",
-        "outputPath": "G:\\projects_c#\\laba_2_asinc_sinc\\asinc\\obj\\",
+        "outputPath": "H:\\cygwin64\\home\\antvm\\labs\\laba_2_asinc_sinc\\asinc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antvm\\AppData\\Roaming\\NuGet\\NuGet.Config",
