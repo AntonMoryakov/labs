@@ -5,7 +5,7 @@ using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-class async
+class Async
 {
     static async Task Main()
     {
