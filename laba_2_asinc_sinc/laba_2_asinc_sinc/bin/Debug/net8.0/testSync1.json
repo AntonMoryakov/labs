@@ -128,7 +128,7 @@ var videopressAjax = {"ajaxUrl":"https:\/\/printotana.wordpress.com\/wp-admin\/a
 </script>
 <script type="text/javascript" id="wpcom-actionbar-placeholder-js-extra">
 /* <![CDATA[ */
-var actionbardata = {"siteID":"154692310","postID":"684","siteURL":"http:\/\/printotana.wordpress.com","xhrURL":"https:\/\/printotana.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"85703cf2a3","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/Pat4xg-b2","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"\u0421\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u044d\u0442\u0443 \u043f\u0430\u043d\u0435\u043b\u044c","unfoldBar":"\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u044d\u0442\u0443 \u043f\u0430\u043d\u0435\u043b\u044c"}};
+var actionbardata = {"siteID":"154692310","postID":"684","siteURL":"http:\/\/printotana.wordpress.com","xhrURL":"https:\/\/printotana.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"80a578c86e","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/Pat4xg-b2","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"\u0421\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u044d\u0442\u0443 \u043f\u0430\u043d\u0435\u043b\u044c","unfoldBar":"\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u044d\u0442\u0443 \u043f\u0430\u043d\u0435\u043b\u044c"}};
 /* ]]> */
 </script>
 <script crossorigin='anonymous' type='text/javascript'  src='https://s1.wp.com/_static/??-eJyFjs1OAzEMhF8IN0ArFQ6IR0H5cSNvEzvYyZa+PVu1WwEXTiPPfPbYnRpE4Y7c3WSuSqCCMAzV58UD4oNsJntwvzktHZrK13nNiGMZCe0STp8D9XyTTSX+F4JKWX3Hn/DaVge0MjLxsoO9+Xi8zcuzwqv3MSMnUedHl+p7p3inZ0ooTdHMhUEluULBdTkiQ1BKGf82hiL53nkSTT4ZxOLNrq/H2tz8fBFgYcip6XLivb497R/3r9vtbvcyfQOrDIA+'></script>
@@ -188,7 +188,7 @@ var wa_smart = { 'network_id': 3905, 'site_id': 474853, 'page_id': 1572546, 'blo
 		</script>	<script>
 		var sas_fallback = sas_fallback || [];
 		sas_fallback.push(
-			{ tag: "&lt;div id=&quot;atatags-26942-664f2902be953&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-664f2902be953\',location: 120,formFactor: \'001\',label: {text: \'Реклама\',},creative: {reportAd: {text: \'Пожаловаться на это объявление\',},privacySettings: {text: \'Политика конфиденциальности\',}}});});&lt;/script&gt;", type: 'belowpost' },
+			{ tag: "&lt;div id=&quot;atatags-26942-664fae0a4df6c&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-664fae0a4df6c\',location: 120,formFactor: \'001\',label: {text: \'Реклама\',},creative: {reportAd: {text: \'Пожаловаться на это объявление\',},privacySettings: {text: \'Политика конфиденциальности\',}}});});&lt;/script&gt;", type: 'belowpost' },
 			{ tag: "&lt;div id=&quot;atatags-26942-{{unique_id}}&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-{{unique_id}}\',location: 310,formFactor: \'001\',label: {text: \'Реклама\',},creative: {reportAd: {text: \'Пожаловаться на это объявление\',},privacySettings: {text: \'Политика конфиденциальности\',}}});});&lt;/script&gt;", type: 'inline' }
 		);
 	</script>		<script type="text/javascript">
@@ -590,24 +590,24 @@ blockquote,
 		<div class="contact-info-wrapper">
 						<span class="contact-info-address">
 				<a href="http://maps.google.com/maps?q=Москва" target="_blank">
-					<svg class="icon icon-location" aria-labelledby="title-664f2902c20f7" role="img"><title id="title-664f2902c20f7">Местоположение</title> <use href="#icon-location" xlink:href="#icon-location"></use> </svg>					<span class="contact-info-label">Москва</span>
+					<svg class="icon icon-location" aria-labelledby="title-664fae0a52ace" role="img"><title id="title-664fae0a52ace">Местоположение</title> <use href="#icon-location" xlink:href="#icon-location"></use> </svg>					<span class="contact-info-label">Москва</span>
 				</a>
 			</span>
 			
 						<span class="contact-info-phone">
 				<a href="tel:+7(929)-659-57-26">
-					<svg class="icon icon-phone" aria-labelledby="title-664f2902c2105" role="img"><title id="title-664f2902c2105">Телефон</title> <use href="#icon-phone" xlink:href="#icon-phone"></use> </svg>					<span class="contact-info-label">+7(929)-659-57-26</span>
+					<svg class="icon icon-phone" aria-labelledby="title-664fae0a52ae6" role="img"><title id="title-664fae0a52ae6">Телефон</title> <use href="#icon-phone" xlink:href="#icon-phone"></use> </svg>					<span class="contact-info-label">+7(929)-659-57-26</span>
 				</a>
 			</span>
 			
 						<span class="contact-info-email">
-				<a href="mailto:&#097;nt&#046;&#118;.&#109;o&#114;y&#097;&#107;o&#118;&#064;&#103;m&#097;i&#108;.&#099;om">
-					<svg class="icon icon-mail" aria-labelledby="title-664f2902c212c" role="img"><title id="title-664f2902c212c">Эл. адрес</title> <use href="#icon-mail" xlink:href="#icon-mail"></use> </svg>					<span class="contact-info-label">&#097;nt&#046;&#118;.&#109;o&#114;y&#097;&#107;o&#118;&#064;&#103;m&#097;i&#108;.&#099;om</span>
+				<a href="mailto:a&#110;&#116;.v&#046;&#109;o&#114;&#121;&#097;kov&#064;g&#109;&#097;&#105;l.&#099;o&#109;">
+					<svg class="icon icon-mail" aria-labelledby="title-664fae0a52b24" role="img"><title id="title-664fae0a52b24">Эл. адрес</title> <use href="#icon-mail" xlink:href="#icon-mail"></use> </svg>					<span class="contact-info-label">a&#110;&#116;.v&#046;&#109;o&#114;&#121;&#097;kov&#064;g&#109;&#097;&#105;l.&#099;o&#109;</span>
 				</a>
 			</span>
 			
 						<span class="contact-info-hours">
-				<svg class="icon icon-time" aria-labelledby="title-664f2902c2146" role="img"><title id="title-664f2902c2146">Часы</title> <use href="#icon-time" xlink:href="#icon-time"></use> </svg>				<span class="contact-info-hours-text">Пн-Вс. с 10:00 до 18:00</span>
+				<svg class="icon icon-time" aria-labelledby="title-664fae0a52b58" role="img"><title id="title-664fae0a52b58">Часы</title> <use href="#icon-time" xlink:href="#icon-time"></use> </svg>				<span class="contact-info-hours-text">Пн-Вс. с 10:00 до 18:00</span>
 			</span>
 					</div><!-- .contact-info-wrapper -->
 	</div><!-- .contact-info-area -->
@@ -689,7 +689,7 @@ blockquote,
 	
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
-			<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Создайте бесплатный сайт или блог на WordPress.com.</a>
+			<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Блог на WordPress.com.</a>
 			
 					</div><!-- .site-info -->
 	</footer><!-- #colophon -->
@@ -1092,11 +1092,11 @@ _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'154692310','blog_tz':'4','user_lang':'ru','blog_lang':'ru','user_id':'0'}]);
 _stq.push(['view', {'blog':'154692310','v':'wpcom','tz':'4','user_id':'0','post':'684','subd':'printotana'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRYT9DRjNNP2NHVC1nfG5ZLTN4UU41Ky9WcXpDdlMsQ2JkSmF+ZDhDcSZUaDQ0NWlURCVDVCVDYmZLL1ZyJnEzNl0uW28lSHIyWlJKQXlQSHYsdltsdll6bzZxZFBEeStdNlZpSmJQXywuMWs1aHdKTDRCRi5vWXUuQkNBY2N8ZFFkOEg5WmR1OG8taDNvNEsuNHc4SW1zMWZTd19LdjFQJVB8OEYxNixoeldrPTNoX0Qtcjl0LC4zdT9QaDF1YXYyMG9jOGhOMz9YenplPWxteT1rWGctYl1ndk5yb0E4VDY='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRYT9DRjNNP2NHVC1nfG5ZLTN4UU41Ky9WcXpDdlMsQ2JkSmF+ZDhDcSZUaDQ0NWlURCVDVCVDYmZLL1ZyJnEzNl0uW28lSHIyWlJKQXlQSHYsdltsdll6bzZxZFBmS35zLF0vYV9PSzJnUixqeDhqW2ZaYWNRSmVIaUc4dC5kSXM/JXVCL1hqM105NixpMnplQTh4fC8teXg3a1g/RGxjPVdkPTUmaDNrSVB+OGszSzdzaGlKaGpobklqcnFqSG89aFZuNCUxOGxiQ3lPJUlafDM0bEZzVVZhbnJENmUrfng='}]);
 _stq.push([ 'clickTrackerInit', '154692310', '684' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
-<script defer id="bilmur" data-customproperties="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/radcliffe-2&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}" data-provider="wordpress.com" data-service="simple"  src="/wp-content/js/bilmur.min.js?i=11&m=202421"></script><div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Создайте подобный сайт на WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/ru?ref=marketing_bar">Начало работы</a><a class="marketing-bar-link" tabindex="-1" aria-label="Создайте веб-сайт на WordPress.com" href="https://wordpress.com/start/ru?ref=marketing_bar"></a></div>		<script type="text/javascript">
+<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Создайте подобный сайт на WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/ru?ref=marketing_bar">Начало работы</a><a class="marketing-bar-link" tabindex="-1" aria-label="Создайте веб-сайт на WordPress.com" href="https://wordpress.com/start/ru?ref=marketing_bar"></a></div>		<script type="text/javascript">
 			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
